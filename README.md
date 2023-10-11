@@ -1,3 +1,3 @@
 # Hello, world!
 
-I love studying
+I love studying netologia
